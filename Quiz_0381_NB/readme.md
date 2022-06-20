@@ -3,7 +3,7 @@
 
 **About**
 
-Quiz is a MERN stack website
+Quiz is a MERN stack website. 
 SignUp/ SignIn authentication with different roles- Teacher and Student.
 Teacher can Create New Quiz on different categories, and can also provide passing score and duration of the quiz.
 The teacher can also delete and edit the content of the quiz, and also can delete the questions.
